@@ -1,10 +1,7 @@
 Hi, I'm Nandan Bhat
 ==============
 
-- I'm intrested in  Embedded Systems, Image Processing, Machine Learning, Computer Architecture and Artificial Intelligence
-- I’m currently learning Electronics , Microcontrollers and Microprocessors , Machine Learning
-- I’m looking to collaborate on Healthcare Devices, Anyhting that solves real life problems and Anything thats Electronics or AI
-- How to reach me: nandanbhat735@gmail.com
+I'm an 18 year old Electronics and Communication Engineering student, passionate about Embedded Systems, Machine Learning, Computer Architecture, Image Processing and Artificial Intelligence.
 
 ### Preferred Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
