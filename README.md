@@ -1,7 +1,7 @@
 Hi, I'm Nandan Bhat
 ==============
 
-I'm an 18 year old Electronics and Communication Engineering student, passionate about Embedded Systems, Machine Learning, Computer Architecture, Image Processing and Artificial Intelligence.
+I'm an 18 year old Electronics and Communication Engineering student, passionate about design and development of Embedded Systems, Artificial Intelligence and Kernel.
 
 ### Preferred Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
